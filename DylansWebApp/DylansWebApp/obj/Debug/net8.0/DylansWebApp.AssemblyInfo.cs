@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DylansWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f90a21a750dc8336ecbb9d16f5a77d2e9e00982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd0bf6a98160c4773312ec452970bfa2ae872601")]
 [assembly: System.Reflection.AssemblyProductAttribute("DylansWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DylansWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
